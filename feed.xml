@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BarCamp Erfurt 2015 - Jugend &amp; Medien</title>
+    <atom:link href="http://www.barcamp-erfurt.de/feed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <link>http://www.barcamp-erfurt.de</link>
+    <description>Seit 2012 findet mit dem BarCamp 'Jugend &amp; Medien' eine der größten Fachkonferenzen für Medienmacher, Entwickler, Designer und Pädagogen im Herzen Deutschlands statt. Gemeinsam fördern wir den Dialog über Trends und Technik, über Wissen und Visionen.</description>
+    <pubDate>Wed, 03 Jun 2015 02:00:00 +0200</pubDate>
+    <language>en</language>
+    <item>
+      <title>Call For Sponsors</title>
+      <link>http://www.barcamp-erfurt.de/news/call-for-sponsors/</link>
+      <pubDate>Wed, 03 Jun 2015 02:00:00 +0200</pubDate>
+      <guid isPermaLink="true">http://www.barcamp-erfurt.de/news/call-for-sponsors/</guid>
+      <author></author>
+      <description>&lt;p&gt;Ohne eure Unterstützung wäre das BCEF eine Schuldenfalle. Alle Organisatoren arbeiten ehrenamtlich, trotzdem fallen jedes Jahr zirka 5000EUR Kosten für Miete, Versicherung, Technik und Verpflegung an.&lt;/p&gt;
+&lt;p&gt;Ihr mögt das BarCamp und wollt uns unterstützen? Ihr kennt einen möglichen Sponsor für uns? Egal ob Geld- oder Sachspende: Schreibt eine Mail an &lt;a href=&quot;mailto:peter@barcamp-erfurt.de&quot;&gt;Peter&lt;/a&gt; und lasst es uns wissen.&lt;/p&gt;
+&lt;p&gt;Und wie immer: Auf Twitter findet ihr uns unter &lt;a href=&quot;https://twitter.com/BarCampErfurt&quot; TARGET=&quot;_blank&quot;&gt;@BarCampErfurt&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Gleiche Stelle, gleiche Welle! BCEF15 im KMZ</title>
+      <link>http://www.barcamp-erfurt.de/news/bcef-in-kmz/</link>
+      <pubDate>Wed, 20 May 2015 02:00:00 +0200</pubDate>
+      <guid isPermaLink="true">http://www.barcamp-erfurt.de/news/bcef-in-kmz/</guid>
+      <author></author>
+      <description>&lt;p&gt;In einer 14tägigen Elefanten-Runde mit externen Beratern und nach ausufernder Marktforschung konnte das Gremium sich in einer Kampfabstimmung mit knapper Mehrheit dazu durchringen #bcef15 als diesjährigen Hashtag auszuwählen. Bestechendes Argument war vor allem die lange Tradition aus &lt;a href=&quot;https://twitter.com/hashtag/bcef14&quot; TARGET=&quot;_blank&quot;&gt;#bcef14&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/hashtag/bcef13&quot; TARGET=&quot;_blank&quot;&gt;#bcef13&lt;/a&gt; und nicht zu vergessen auch &lt;a href=&quot;https://twitter.com/hashtag/bcef12&quot; TARGET=&quot;_blank&quot;&gt;#bcef12&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Und weil schon so viel Gutes gut bleibt, werden wir auch dieses Jahr wieder im Studiopark KinderMedienZentrum Erfurt logieren. Alle Adressen findet ihr &lt;a href=&quot;../../location&quot;&gt; hier. &lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Es geht weiter! BarCamp &quot;Jugend &amp; Medien&quot; auch 2015</title>
+      <link>http://www.barcamp-erfurt.de/news/bcef-geht-weiter/</link>
+      <pubDate>Wed, 06 May 2015 02:00:00 +0200</pubDate>
+      <guid isPermaLink="true">http://www.barcamp-erfurt.de/news/bcef-geht-weiter/</guid>
+      <author></author>
+      <description>&lt;p&gt;Andere machen Sommerpause, wir haben uns in einer lauen Frühsommer-Nacht im Kerzenschein zu einem ersten romantischen Skype-Call der Orga-Gruppe zusammen gefunden. Und es hat auch sofort gefunkt: Nach viel positivem Feedback aus dem letzten Jahr, wollen wir auch 2015 wieder ein Camp veranstalten.&lt;/p&gt;
+</description>
+    </item>
+  </channel>
+</rss>
